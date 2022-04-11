@@ -1,3 +1,15 @@
 .App {
   text-align: center;
 }
+#ruby {
+  background-color: #df4638;
+}
+#python {
+  background-color: #8dad53;
+}
+#js {
+  background-color: #6d4596;
+}
+#hyper {
+  background-color: #f7cc77;
+}
