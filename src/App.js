@@ -19,14 +19,14 @@ class App extends Component {
         <div id="squirrels" className="cell">
             Facts about squirrels
           </div>
-          <div id="python" className="cell">
-            Python
+          <div id="squirrels" className="cell">
+           squirrels affect on environment
           </div>
-          <div id="js" className="cell">
-            JavaScript
+          <div id="chipmunks" className="cell">
+            facts about chipmunks
           </div>
-          <div class="cell" id="p5">
-            p5.js
+          <div class="cell" id="chipmunk">
+            chipmunks affect on environment
           </div>
           <div class="cell" id="bootstrap">
             Bootstrap
