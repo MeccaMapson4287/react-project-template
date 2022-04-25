@@ -8,6 +8,7 @@ class App extends Component {
   }
 
   render() {
+    this.state.data;
     return (
       <div className="App">
         <h1>Critter Census</h1>
@@ -16,11 +17,11 @@ class App extends Component {
           alt="Squirrels of USF - This is the emoji for both “squirrel” and “chipmunk.” We  have a problem. #squirrel | Facebook"
         />
         <div className="grid">
-        <div id="squirrels" className="cell">
+          <div id="squirrels" className="cell">
             Facts about squirrels
           </div>
           <div id="squirrels" className="cell">
-           squirrels affect on environment
+            squirrels affect on environment
           </div>
           <div id="chipmunks" className="cell">
             facts about chipmunks
@@ -28,8 +29,10 @@ class App extends Component {
           <div class="cell" id="chipmunk">
             chipmunks affect on environment
           </div>
-          <div class="cell" id="bootstrap">
-            Bootstrap
+          <div class="cell" id="critter">
+            find critters
+          </div>
+        </div>
       </div>
     );
   }
