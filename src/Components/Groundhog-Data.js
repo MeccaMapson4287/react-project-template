@@ -1,12 +1,12 @@
 import React from "react";
 import { VictoryChart } from "victory";
 
-function Chipmunk() {
+function Groundhog(Props) {
   return (
     <div className="Chipmunk">
-      <h3>Chipmunk Data</h3>
+      <h3>Groundhog Data</h3>
     </div>
   );
 }
 
-export default Chipmunk;
+export default Groundhog;

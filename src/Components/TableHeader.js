@@ -10,10 +10,6 @@ function TableHeader() {
         <div>Squirrels affect on environment</div>
         <div>Facts About Chipmunks</div>
         <div>Chipmunks affect on environment</div>
-        <div>Birds</div>
-        <div>Opponent</div>
-        <div>Wins</div>
-        <div>Losses</div>
       </div>
     </div>
   );
