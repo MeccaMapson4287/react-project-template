@@ -49,9 +49,7 @@ class App extends Component {
               woodland meets a well-vegetated open field or meadow.
             </p>
           </div>
-          <div class="cell" id="critter">
-            Find critters
-          </div>
+
         </div>
       </div>
     );
