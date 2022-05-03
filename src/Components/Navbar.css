@@ -3,9 +3,19 @@
   background: rgb(220, 220, 220);
   display: flex;
   justify-content: left;
+  padding: 20px 0;
+  font-size: 30px;
+  height: auto;
 }
 
 .logo {
   margin-left: 1rem;
   font-weight: 700;
+}
+
+.p {
+  padding: 20px 0;
+  font-size: 30px;
+  height: auto;
+  display: flex;
 }
